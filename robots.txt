@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://startups-ekn.pages.dev/sitemap.xml
